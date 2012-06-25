@@ -2,7 +2,7 @@ Paginas Web recomendadas para aprender:
    http://www.w3schools.com/html/
    http://www.htmlya.com.ar/
 
-Editor recomendads
+Editor recomendado
    http://www.sublimetext.com/
 
 Herramienta de Trabajo
