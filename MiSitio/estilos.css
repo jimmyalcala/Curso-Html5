@@ -1,0 +1,62 @@
+body {background-color: #e3e3e3;
+}
+
+header {
+        height: 100px;
+        border: solid black;
+        
+       
+}
+
+ #foto {
+        display: inline;
+        margin: 2px;
+        width: 20%;
+        float: left;
+        
+}
+
+#nombre {
+        display: inline;
+        float: left;
+}
+
+nav{
+        height: 30px;
+        background-color: black;
+        color: white;
+                text-align: center;
+}
+
+li{
+        display: inline;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+}
+
+li a{color: white;
+  text-align: center;
+  margin-left: 10px;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+li a:hover{
+        color: #ffd800;
+        font-size: 29px;
+}
+
+section {
+        margin: 20px;
+font-family: Arial;
+font-size: 25px;
+}
+
+
+footer{
+        height: 50px;
+        background-color: #808080;
+        text-align: center;
+}
+
